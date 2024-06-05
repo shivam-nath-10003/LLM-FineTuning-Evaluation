@@ -63,5 +63,5 @@ If you would like to contribute to this project, please follow these steps:
 5. Submit a pull request.
 
 ## Contact
-For any questions or suggestions, please open an issue or contact shivamnath@iipe.ac.in
-I'll also generate a `requirements.docx` file based on the common libraries used in model evaluation and fine-tuning. Let's start with creating the `requirements.docx` file.
+- For any questions or suggestions, please open an issue or contact shivamnath@iipe.ac.in
+- I'll also generate a `requirements.docx` file based on the common libraries used in model evaluation and fine-tuning. Let's start with creating the `requirements.docx` file.
