@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks for model evaluation and fine-tuning 
 
 To run the notebooks, you need to have the following dependencies installed:
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook or Jupyter Lab
 - Common Python libraries such as pandas, numpy, scikit-learn, matplotlib, etc.
 
